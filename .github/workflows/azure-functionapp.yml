@@ -5,7 +5,7 @@ on:
       - master
 
 env:
-  ResourceGroup: sawickibabystorage
+  ResourceGroup: sawicki.baby.rsg
 jobs:
   build:
     runs-on: ubuntu-latest
